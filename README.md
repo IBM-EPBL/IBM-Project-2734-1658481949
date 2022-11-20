@@ -1,6 +1,5 @@
 IBM-Project-2734-1658481949
 
-
 Global Sales Data Analytics
 
 
